@@ -7,14 +7,11 @@ The Hotel Management System is a desktop-based application designed to assist ho
 Features
 
 Manager: View residents, track income, monitor rooms, manage workers.
-
 Receptionist: Manage residents, calculate costs, add bookings.
-
 Rooms: Single, Double, Triple with different pricing and board options.
+
 Technologies Used
 
 Programming Language: Java
-
 Database: MySQL
-
 GUI Framework: Swing
