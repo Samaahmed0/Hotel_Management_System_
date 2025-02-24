@@ -2,8 +2,6 @@
 
 A **desktop-based application** to help hotel staff manage room bookings, check-ins, and check-outs efficiently.  
 
-![Hotel Management System](https://via.placeholder.com/800x400.png?text=Hotel+Management+System)  
-
 ## 📌 Overview  
 The Hotel Management System streamlines hotel operations, including:  
 - Room Booking & Check-in/Check-out  
@@ -19,5 +17,3 @@ The Hotel Management System streamlines hotel operations, including:
 - **Programming Language:** Java ☕  
 - **Database:** MySQL 🛢️  
 - **GUI Framework:** Swing 🎨  
-
-🔗 **GitHub Repository:** [Hotel Management System](https://github.com/Samaahmed0/Hotel_Management_System_)  
