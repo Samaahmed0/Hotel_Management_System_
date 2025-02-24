@@ -1,17 +1,23 @@
-Hotel Management System
+# Hotel Management System 🏨  
 
-Overview
+A **desktop-based application** to help hotel staff manage room bookings, check-ins, and check-outs efficiently.  
 
-The Hotel Management System is a desktop-based application designed to assist hotel staff in managing essential hotel operations. The system streamlines tasks such as room booking, check-in/check-out procedures, and room status tracking. The application is accessible only to the Manager and Receptionist, each with specific roles and limited access to functionalities.
+![Hotel Management System](https://via.placeholder.com/800x400.png?text=Hotel+Management+System)  
 
-Features
+## 📌 Overview  
+The Hotel Management System streamlines hotel operations, including:  
+- Room Booking & Check-in/Check-out  
+- Room Status Tracking  
+- User roles: **Manager** & **Receptionist**  
 
-Manager: View residents, track income, monitor rooms, manage workers.
-Receptionist: Manage residents, calculate costs, add bookings.
-Rooms: Single, Double, Triple with different pricing and board options.
+## ✨ Features  
+👤 **Manager**: View residents, track income, monitor rooms, manage workers.  
+🛎️ **Receptionist**: Manage residents, calculate costs, add bookings.  
+🏨 **Rooms**: Single, Double, Triple with different pricing & board options.  
 
-Technologies Used
+## 🛠️ Technologies Used  
+- **Programming Language:** Java ☕  
+- **Database:** MySQL 🛢️  
+- **GUI Framework:** Swing 🎨  
 
-Programming Language: Java
-Database: MySQL
-GUI Framework: Swing
+🔗 **GitHub Repository:** [Hotel Management System](https://github.com/Samaahmed0/Hotel_Management_System_)  
